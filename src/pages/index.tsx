@@ -6,7 +6,7 @@ import Image from '../components/image';
 
 const IndexPage = (): ReactElement => (
   <Layout>
-    <h1>Brett is Awesome</h1>
+    <h1>Header</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
